@@ -42,11 +42,16 @@ Test the processor with new documents not used in training or testing to validat
 ### 12. Use the Processor:
 Manage your custom-trained processor versions and send processing requests to handle entity extraction tasks.
 
-### Key Points
-Manual Labeling: Manually label a sample document to guide the processor.
-Schema Management: Edit and manage the schema to include only relevant labels.
-Training Data: Ensure a sufficient number of labeled documents in the training and test sets.
-Training and Deployment: Train the processor and deploy the trained version.
-Evaluation: Evaluate the processor using various metrics and test it with new data.
-Usage: Use and manage the custom-trained processor for processing requests.
-This guide is essential for anyone looking to implement an Invoice Parser with Google Cloud's Document AI, providing a structured approach to setting up, training, and deploying the processor for extracting entities from invoices.
+## Key Points
+### Manual Labeling: 
+Manually label a sample document to guide the processor.
+### Schema Management: 
+Edit and manage the schema to include only relevant labels.
+### Training Data: 
+Ensure a sufficient number of labeled documents in the training and test sets.
+### Training and Deployment: 
+Train the processor and deploy the trained version.
+### Evaluation: 
+Evaluate the processor using various metrics and test it with new data.
+### Usage: 
+Use and manage the custom-trained processor for processing requests.
