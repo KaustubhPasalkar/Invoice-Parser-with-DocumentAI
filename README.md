@@ -52,8 +52,7 @@ Deploy the trained processor version to make it ready for use.
 Evaluate the processor's performance using metrics like F1 score, precision, and recall.
 Test the processor with new documents not used in training or testing to validate its performance.
 
-<img width="744" alt="DocumentAI6" src="https://github.com/KaustubhPasalkar/Invoice-Parser-with-DocumentAI/assets/52817783/45b8cc20-7bef-4240-b648-ecf8ba110791">
-
+<img width="744" alt="DocumentAI6" src="https://github.com/KaustubhPasalkar/Invoice-Parser-with-DocumentAI/assets/52817783/7098fb63-2c9b-47a4-a94c-a3ad9fab9324">
 
 ### 12. Use the Processor:
 Manage your custom-trained processor versions and send processing requests to handle entity extraction tasks.
